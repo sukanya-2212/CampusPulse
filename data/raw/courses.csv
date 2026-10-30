@@ -1,0 +1,16 @@
+course_id,course_name,department_id
+C001,Database Systems,D01
+C002,Python Programming,D04
+C003,Statistics,D04
+C004,Data Structures,D03
+C005,Operating Systems,D03
+C006,Computer Networks,D05
+C007,Digital Electronics,D01
+C008,Signals and Systems,D04
+C009,Microprocessors,D02
+C010,Thermodynamics,D01
+C011,Fluid Mechanics,D03
+C012,Structural Analysis,D05
+C013,Power Systems,D04
+C014,Control Systems,D04
+C015,Engineering Mathematics,D04

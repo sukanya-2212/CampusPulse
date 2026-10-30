@@ -1,0 +1,13 @@
+fee_type,payment_status,total_records,total_recorded_amount
+Exam,Paid,563,22578528.43
+Exam,Partially Paid,72,2736144.75
+Exam,Pending,145,5986540.69
+Hostel,Paid,529,20094464.37
+Hostel,Partially Paid,74,2753123.98
+Hostel,Pending,132,5534617.33
+Library,Paid,527,21286837.5
+Library,Partially Paid,65,2929503.6
+Library,Pending,118,4640508.81
+Tuition,Paid,560,21905775.72
+Tuition,Partially Paid,63,2345888.46
+Tuition,Pending,145,5842477.85

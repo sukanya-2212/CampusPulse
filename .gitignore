@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Jupyter temporary checkpoints
+.ipynb_checkpoints/
+
+# Local DuckDB database
+*.duckdb
+*.duckdb.wal
+
+# Generated data
+data/validated/
+data/quarantine/
+
+# Operating system files
+.DS_Store
+Thumbs.db

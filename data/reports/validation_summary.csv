@@ -1,0 +1,12 @@
+table_name,raw_rows,valid_rows,quarantined_rows,status
+assignments,10000,9983,17,WARN
+attendance,30000,29895,105,WARN
+courses,15,15,0,PASS
+departments,5,5,0,PASS
+exam_results,5000,4988,12,WARN
+faculty,60,60,0,PASS
+fees,3000,2993,7,WARN
+internships,500,499,1,WARN
+placements,1000,993,7,WARN
+student_leave,3000,2994,6,WARN
+students,1001,998,3,WARN

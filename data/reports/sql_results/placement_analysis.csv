@@ -1,0 +1,6 @@
+department_id,total_placement_records,students_with_placement_records,distinct_companies,placed_records,students_with_placed_records,in_progress_records,offer_declined_records,not_placed_records,avg_placed_package_lpa,median_placed_package_lpa,highest_placed_package_lpa
+D05,219,145,5,60.0,56,67.0,56.0,36.0,13.37,13.46,23.97
+D03,213,133,5,61.0,53,54.0,47.0,51.0,12.91,12.86,23.87
+D04,192,126,5,51.0,45,32.0,53.0,56.0,13.79,12.85,23.99
+D01,226,145,5,50.0,44,69.0,51.0,56.0,13.34,13.92,23.47
+D02,143,101,5,32.0,26,38.0,36.0,37.0,13.15,12.75,23.32

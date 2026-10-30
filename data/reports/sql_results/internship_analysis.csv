@@ -1,0 +1,6 @@
+department_id,total_internship_records,students_with_internships,distinct_organizations,completed_internships,ongoing_internships,withdrawn_internships,avg_internship_duration_days
+D04,118,97,4,38.0,41.0,39.0,97.7
+D05,105,80,4,39.0,28.0,38.0,102.41
+D01,100,83,4,36.0,35.0,29.0,98.45
+D03,92,73,4,30.0,34.0,28.0,107.63
+D02,84,65,4,24.0,28.0,32.0,100.24
